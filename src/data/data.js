@@ -1,0 +1,136 @@
+const data = [
+  {
+    id: 1,
+    image:
+      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
+    title: "Proyecto",
+    category: "Categoria 1",
+    tecnologies: "Tec",
+    description: "Desc",
+    date: "2022",
+    ReadingTime: "--",
+  },
+  {
+    id: 2,
+    image:
+      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
+    title: "Proyecto",
+    category: "Categoria 1",
+    tecnologies: "Tec",
+    description: "Desc",
+    date: "2022",
+    ReadingTime: "--",
+  },
+  {
+    id: 3,
+    image:
+      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
+    title: "Proyecto",
+    category: "Categoria 1",
+    tecnologies: "Tec",
+    description: "Desc",
+    date: "2022",
+    ReadingTime: "--",
+  },
+  {
+    id: 4,
+    image:
+      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
+    title: "Proyecto",
+    category: "Categoria 1",
+    tecnologies: "Tec",
+    description: "Desc",
+    date: "2022",
+    ReadingTime: "--",
+  },
+  {
+    id: 5,
+    image:
+      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
+    title: "Proyecto",
+    category: "Categoria 2",
+    tecnologies: "Tec",
+    description: "Desc",
+    date: "2022",
+    ReadingTime: "--",
+  },
+  {
+    id: 6,
+    image:
+      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
+    title: "Proyecto",
+    category: "Categoria 2",
+    tecnologies: "Tec",
+    description: "Desc",
+    date: "2022",
+    ReadingTime: "--",
+  },
+  {
+    id: 7,
+    image:
+      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
+    title: "Proyecto",
+    category: "Categoria 2",
+    tecnologies: "Tec",
+    description: "Desc",
+    date: "2022",
+    ReadingTime: "--",
+  },
+  {
+    id: 8,
+    image:
+      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
+    title: "Proyecto",
+    category: "Categoria 3",
+    tecnologies: "Tec",
+    description: "Desc",
+    date: "2022",
+    ReadingTime: "--",
+  },
+  {
+    id: 9,
+    image:
+      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
+    title: "Proyecto",
+    category: "Categoria 3",
+    tecnologies: "Tec",
+    description: "Desc",
+    date: "2022",
+    ReadingTime: "--",
+  },
+  {
+    id: 10,
+    image:
+      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
+    title: "Proyecto",
+    category: "Categoria 4",
+    tecnologies: "Tec",
+    description: "Desc",
+    date: "2022",
+    ReadingTime: "--",
+  },
+  {
+    id: 11,
+    image:
+      "https://samuelkraft.com/_next/image?url=%2Fblog%2Fspring-parallax-framer-motion-guide%2Fbg.png&w=828&q=75",
+    link: "#!",
+    title: "Proyecto",
+    category: "Categoria 4",
+    tecnologies: "Tec",
+    description: "Desc",
+    date: "2022",
+    ReadingTime: "--",
+  },
+];
+
+export default data;
